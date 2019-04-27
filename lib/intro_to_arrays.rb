@@ -7,3 +7,7 @@ def array_with_two_elements
   @two_elements = [1, 2]
   return [1, 2]
 end
+
+def arrays_indexing
+  taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+end
