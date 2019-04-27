@@ -12,3 +12,6 @@ def first_element(my_first_element)
   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   my_first_element = @taylor_swift.first
 end
+
+def third_element(my_third_element)
+  my_third_element = @taylor_swift.third
