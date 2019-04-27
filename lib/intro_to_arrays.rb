@@ -10,6 +10,6 @@ end
 
 def arrays_indexing
   taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  taylor_swift = my_first_element
-  my_first_element.take(1)
+  my_first_element = taylor_swift
+  taylor_swift.take(1)
 end
