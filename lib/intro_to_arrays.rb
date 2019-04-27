@@ -10,5 +10,5 @@ end
 
 def arrays_indexing
   taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  puts taylor_swift.take(0)
+  puts taylor_swift.take(1)
 end
